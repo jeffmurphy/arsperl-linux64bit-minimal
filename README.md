@@ -30,9 +30,9 @@ Then
 It should succeed with 
 
     [arstest.c 36] main : ars_Login(SERVER, USER, PASS, [null], [null], 9000, 390680)
-    [arstest.c 72] main : ARVerifyUser ok 0```
+    [arstest.c 72] main : ARVerifyUser ok 0
 
-The code in arstest.xs and arstest.c are, obstensibly, the same. So basically when you insert the 
+The code in arstest.xs and arstest.c are, ostensibly, the same. So basically when you insert the 
 code that works perfectly fine as a standalone C app into a Perl XS, it fails. 
 
 Debugging with GDB shows that BMC has RPC routines embedded that take precendece over the libc
