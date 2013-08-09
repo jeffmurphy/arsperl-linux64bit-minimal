@@ -1,0 +1,2 @@
+TYPEMAP
+ARControlStruct *       T_PTROBJ
