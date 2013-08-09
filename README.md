@@ -18,7 +18,7 @@ It should fail with
     messageType = 2
     messageNum  = 90
     messageText = Cannot open catalog; Message number = 90
-    appendedText = remedy.acsu.buffalo.edu : RPC: Rpcbind failure - RPC: Can't decode result```
+    appendedText = remedy.acsu.buffalo.edu : RPC: Rpcbind failure - RPC: Can't decode result
 
 
 Then
