@@ -25,7 +25,7 @@ Then
 
 1. cd minimal-c
 2. Adjust the server/username/password in arstest.c
-3. vi built
+3. vi build
 4. Adjust the API path
 5. ./build
 
